@@ -1,0 +1,34 @@
+header {
+  color: red;
+  margin: 20px;
+}
+
+nav {
+  color: green;
+  margin: 20px;
+}
+
+aside {
+  color: blue;
+  margin: 20px;
+}
+
+.articulo1 {
+  color: black;
+  margin: 20px;
+}
+
+.articulo2 {
+  color: orange;
+  margin: 20px;
+}
+
+.articulo3 {
+  color: pink;
+  margin: 20px;
+}
+
+footer {
+  color: violet;
+  margin: 20px;
+}
